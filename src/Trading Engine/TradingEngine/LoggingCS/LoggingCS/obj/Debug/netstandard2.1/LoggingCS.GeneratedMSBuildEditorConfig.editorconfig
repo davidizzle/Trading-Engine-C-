@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = TradingEngineServer.Logging
+build_property.ProjectDir = C:\Users\david\development\Trading Engine C#\src\Trading Engine\TradingEngine\LoggingCS\LoggingCS\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
